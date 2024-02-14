@@ -2,6 +2,6 @@
 
 class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, Worldddddd this is RAIT!"); 
+        System.out.println("Hello, Worldddddd today is wednesday"); 
     }
 }
